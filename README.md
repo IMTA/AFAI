@@ -1,5 +1,5 @@
 
-# Sargassum estimation (AFAI) from USF data: Gulf of Mexico and Caribbean Sea
+# 1. Sargassum estimation (AFAI) from USF data: Gulf of Mexico and Caribbean Sea
 # Western Caribbean Sea
 
 
